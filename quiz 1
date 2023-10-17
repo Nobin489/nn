@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Brazil Experiences</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Brazil Experiences</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#photos">Photos</a></li>
+            <li><a href="#videos">Videos</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Share a brief introduction about yourself and your passion for exploring Brazil.
+        </p>
+    </section>
+
+    <section id="photos">
+        <h2>Photos</h2>
+        <p>
+            Showcase some of your favorite photos from your Brazil adventures. You can use a gallery or slideshow plugin for this section.
+        </p>
+    </section>
+
+    <section id="videos">
+        <h2>Videos</h2>
+        <p>
+            Embed or link to your Brazil travel videos. Consider using a video platform like YouTube or Vimeo.
+        </p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>
+            Encourage visitors to get in touch with you for inquiries, collaborations, or to share their own Brazil experiences.
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 My Brazil Experiences</p>
+    </footer>
+</body>
+</html>
